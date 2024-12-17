@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my skills to get a job.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>React Native.<br><br>⚡ **Fun fact:**  <br>I love creating websites and apps.
+🔭 **I’m currently working on:**  <br>Improving my skills to get a job.<br><br>
+👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
+🌱 **I’m currently learning:**  <br>React Native.<br><br>
+⚡ **Fun fact:**  <br>I love creating websites and apps.
 
 
 ## 🌐 Socials:
